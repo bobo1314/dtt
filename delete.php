@@ -15,7 +15,7 @@ if (mysqli_query($link, $sql)) {
 	// location.href = './list.php';
 	// header("url=./list.php");
 
-	// die(); //中止程序向下运行。
+	// die(); //中止程序向下运行!
 	
 	
 	
